@@ -3,7 +3,7 @@
 ## 概述
 这是由 LeetCode 官方推出的的经典面试题目清单，我们将题目重新整理规划，从而为大家提供更好的练习体验和帮助大家找到理想的工作。 我们将题目分为以下三个部分：
 
-1. [初级算法 - 帮助入门](./leetbook/top-interview-questions-easy.md)
+1. [初级算法 - 帮助入门](https://github.com/LiLittleCat/leetcode-solutions/blob/master/leetbook/top-interview-questions-easy.md)
 2. 中级算法 - 巩固训练
 3. 高级算法 - 提升进阶
 
@@ -25,7 +25,7 @@
 
 | #    | Title                                                        | Solution | Difficulty |
 | ---- | ------------------------------------------------------------ | -------- | :--------- |
-| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)/删除排序数组中的重复项 |          | Easy       |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)/[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |          | Easy       |
 |      |                                                              |          |            |
 |      |                                                              |          |            |
 
