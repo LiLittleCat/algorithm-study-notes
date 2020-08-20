@@ -23,11 +23,11 @@
 
 我们推荐以下题目：只出现一次的数字，旋转数组，两个数组的交集 II 和 两数之和。
 
-| #    | Title                                                        | Solution | Difficulty |
-| ---- | ------------------------------------------------------------ | -------- | :--------- |
-| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)/[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |          | Easy       |
-|      |                                                              |          |            |
-|      |                                                              |          |            |
+| #    | Title                                                        | Solution                                                     | Difficulty |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | :--------- |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)/[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Java](https://github.com/LiLittleCat/leetcode-solutions/blob/master/leetcode/0026-remove-duplicates-from-sorted-array/Solution.md) | Easy       |
+|      |                                                              |                                                              |            |
+|      |                                                              |                                                              |            |
 
 
 
