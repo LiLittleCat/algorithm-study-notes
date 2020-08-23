@@ -7,7 +7,7 @@
 2. 中级算法 - 巩固训练
 3. 高级算法 - 提升进阶
 
-这一系列 LeetBook 将帮助您掌握算法及数据结构，并提高您的编程能力。
+这一系列 `LeetBook` 将帮助您掌握算法及数据结构，并提高您的编程能力。
 
 编程能力就像任何其他技能一样，也是一个可以通过 `刻意练习` 大大提高的。
 
@@ -26,7 +26,7 @@
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | :--------- |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)/[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Java](https://github.com/LiLittleCat/leetcode-solutions/blob/master/leetcode/0026-remove-duplicates-from-sorted-array/Solution.md) | Easy       |
-|      |                                                              |                                                              |            |
+| 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)/[[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)] | [Java](https://github.com/LiLittleCat/leetcode-solutions/blob/master/leetcode/0122-best-time-to-buy-and-sell-stock-ii/Solution.md) | Easy       |
 |      |                                                              |                                                              |            |
 
 
