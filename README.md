@@ -93,6 +93,32 @@ void traverse(TreeNode root) {
 }
 ```
 
+回溯算法框架
+
+```java
+result = []
+def backtrack（路径，选择列表）:
+    if 满⾜结束条件：
+        result.add（路径）
+        return
+    for 选择 in 选择列表：
+        做选择
+        backtrack（路径，选择列表）
+        撤销选择
+```
+
+ 动态规划框架
+
+```java
+# 初始化 base case
+dp[0][0][...] = base
+# 进⾏状态转移
+for 状态 1 in 状态 1 的所有取值：
+    for 状态 2 in 状态 2 的所有取值：
+        for ...
+            dp[状态 1][状态 2][...] = 求最值（选择 1，选择 2...)
+```
+
 ## :blue_book: LeetBook
 
 - :sparkles:[初级算法](https://github.com/LiLittleCat/leetcode-solutions/blob/master/leetbook/top-interview-questions-easy.md)
